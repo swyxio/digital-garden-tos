@@ -1,6 +1,7 @@
 # Digital Garden Terms of Service
 
-![2020-02-26 at 2 55 AM](https://user-images.githubusercontent.com/6764957/75323784-912e3880-5843-11ea-8df8-5944c33f11de.png)
+![image](https://user-images.githubusercontent.com/6764957/75324331-b3748600-5844-11ea-8439-584cfde8a48e.png)
+
 
 ## For Visitors
 
