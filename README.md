@@ -1,6 +1,6 @@
 # Digital Garden Terms of Service
 
-![image](https://user-images.githubusercontent.com/6764957/75324331-b3748600-5844-11ea-8439-584cfde8a48e.png)
+![image](https://user-images.githubusercontent.com/6764957/75324412-e3bc2480-5844-11ea-90be-4a26b6a64000.png)
 
 
 ## For Visitors
