@@ -39,7 +39,7 @@ However there are some ground rules to being a responsible Digital Gardener, and
 - I will err on the side of treating others as THEY want to be treated. 
 - I will "steelman" arguments - the opposite of "strawman arguments" - instead of picking on the weakest piece of their argument, I will confront head on their best argument by seeking first to understand before trying to be understood.
 
-### 2. Epistemic Origin
+### 2. Epistemic Disclosure
 
 - I will report how strongly I hold my beliefs, always reserving the right to be wrong and change my mind. 
 - I will report how much experience I have in the topic, by disclosing how much work I have done so far on it and linking to others who will know more.
