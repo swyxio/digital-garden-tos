@@ -1,8 +1,6 @@
 # Digital Garden Terms of Service
 
-## [Link to GitHub Repo](https://github.com/sw-yx/digital-garden-tos)
-
-[Here's the Digital Garden Terms of Service in a GitHub Repo](https://github.com/sw-yx/digital-garden-tos). Please feel free to suggest changes or fork to your liking.
+![2020-02-26 at 2 55 AM](https://user-images.githubusercontent.com/6764957/75323784-912e3880-5843-11ea-8df8-5944c33f11de.png)
 
 ## For Visitors
 
