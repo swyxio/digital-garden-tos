@@ -1,6 +1,6 @@
 # Termos de Serviço do Jardim Digital
 
-![termos Jardim Digital](https://user-images.githubusercontent.com/26076/153714836-ff9439bd-59e5-4839-9885-8ab0cee745b1.png)
+![image](https://user-images.githubusercontent.com/26076/153716482-a603cc34-d370-4d1d-97b9-7bbb6ee55d13.png)
 
 ## Para visitantes
 
