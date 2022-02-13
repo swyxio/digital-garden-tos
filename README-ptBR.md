@@ -20,22 +20,22 @@ Melhor ainda, escreva uma versão melhor do que eu fiz e publique no seu própri
 
 ### 3. Atribua, não plagie
 
-Não plagie. Você está convidado a citar, com atribuição e um link para cá. Eu não renuncio aos direitos autorais para fins comerciais. Mas sinta-se à vontade para compartilhar ideias.
+Não plagie. Você está convidado a citar, com atribuição e um link para cá. Eu não renuncio aos direitos autorais para fins comerciais. Mas sinta-se à vontade para compartilhar ideias, usá-las como ponto de partida e mudar/improvisar como quiser.
 
 ---
 
 ## Para jardineiros
 
-Parabéns! Você agora é o orgulhoso proprietário do seu próprio canto da Internet. Este é um segundo cérebro que existe fora do seu cérebro natural - é muito bom em lembrar de tudo, pesquisar e organizar fatos e links, e economizar teclas. Seu segundo cérebro é um terreno fértil: se você cuidar bem dele, seu jardim digital o ajudará a ser um aprendiz ao longo da vida e dar frutos de maneiras inesperadas.
+Parabéns! Você agora é o orgulhoso proprietário do seu próprio canto da Internet. Este é um segundo cérebro que existe fora do seu cérebro natural - é muito bom em lembrar de tudo, pesquisar e organizar fatos e links, e economizar teclas. Seu segundo cérebro é um terreno fértil: se você cuidar bem dele, seu jardim digital o ajudará a ser um aprendiz ao longo da vida, a angariar amizades enquanto dorme ([friendcatcher](https://www.swyx.io/friendcatchers)) e dar frutos de maneiras inesperadas.
 
 No entanto, existem algumas regras básicas para ser um jardineiro digital responsável e algumas coisas que você pode fazer para aumentar o rendimento do seu trabalho.
 
-### 1. Consideração de outros
+### 1. Consideração às pessoas
 
 - Não publicarei conversas privadas ou informações confidenciais.
-- Levarei em consideração os sentimentos dos outros se escrever negativamente sobre algo em que as pessoas trabalharam ou disseram.
+- Levarei em consideração os sentimentos das pessoas se escrever negativamente sobre algo em que elas trabalharam ou disseram.
 - Farei o possível para cobrir minhas bases e verificar se não assumi incompetência ou malícia devido ao meu desconhecimento do corpo completo do trabalho.
-- Vou confrontar seu melhor argumento, procurando primeiro entender antes de tentar ser entendido.
+- Em vez de escolher a parte mais fraca de seu argumento ([falácia do espantalho](https://pt.wikipedia.org/wiki/Fal%C3%A1cia_do_espantalho)), vou confrontar seu melhor argumento ([steelmanning](https://en.wikipedia.org/wiki/Straw_man#Steelmanning)), procurando primeiro entender antes de tentar ser entendido.
 
 ### 2. Divulgação Epistêmica
 
